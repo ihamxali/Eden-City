@@ -1,8 +1,7 @@
 # 🌱 Edencité - Urban Agriculture Collaborative Platform
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Platform-green?style=for-the-badge)](https://edencite-connect.lovable.app/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![University](https://img.shields.io/badge/University-Marie%20%26%20Louis%20Pasteur-purple?style=for-the-badge)](https://www.unistra.fr/)
+[![University](https://img.shields.io/badge/University-Marie%20%26%20Louis%20Pasteur-purple?style=for-the-badge)](https://www.ufc.fr/)
 
 > **A Collaborative Platform for Urban Agriculture Innovators**
 > 
